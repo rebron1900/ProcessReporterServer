@@ -1,4 +1,5 @@
 ## 说明
+适配 [Shiro](https://github.com/innei/Shiro) 上报程序 [ProcessReporterWin](https://github.com/ChingCdesu/ShiroProcessReporter) 的服务端代码
 ChatGPT生成的代码，自己小改了一下，应该蛮多问题的，不足支出忘各位大佬指正。
 
 ## 配置
