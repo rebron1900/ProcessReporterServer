@@ -1,0 +1,14 @@
+{
+  "name": "process_reporter_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm install && node index.js"
+  },
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
